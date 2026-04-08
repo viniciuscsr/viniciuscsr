@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Vinny Costa</h1>
 <p align="center">
-  <a href="https://portifolio-website.onrender.com/" target="_blank">Portfolio</a>
+  <a href="https://parsea.io/" target="_blank">Parsea</a>
   |
   <a href="https://www.linkedin.com/in/vinny/" target="_blank">LinkedIn</a>
 </p>
